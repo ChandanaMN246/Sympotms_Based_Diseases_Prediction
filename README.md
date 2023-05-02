@@ -1,4 +1,4 @@
-# Sympotms_Based_Diseases_Prediction
+# Symptoms_Based_Diseases_Prediction
 
 This project is a Python implementation of a machine learning model for predicting diseases based on symptoms reported by patients. The goal of the project is to provide an early diagnosis of diseases using symptoms reported by patients, which can help healthcare providers make informed decisions and provide timely treatment.
 
