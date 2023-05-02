@@ -9,3 +9,5 @@ The program uses popular Python libraries for machine learning, such as scikit-l
 The project also includes a user interface for patients to input their symptoms and get a prediction of the most likely disease.
 
 Overall, this project demonstrates a practical application of machine learning techniques in Python for disease prediction using symptoms reported by patients. It can be useful for healthcare providers, medical researchers, and data scientists interested in early diagnosis and treatment of diseases, and can be easily extended to other datasets or applications.
+
+data set:https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
